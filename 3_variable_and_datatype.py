@@ -1,29 +1,29 @@
-a = 1
-print(a)
+# a = 1
+# print(a)
 
-b = "Bhratesh"
-print(b)
+# b = "Bhratesh"
+# print(b)
 
-a = 9
-a1 = 13
+# a = 9
+# a1 = 13
 
-print(a+a1)
+# print(a+a1)
 
-print("Type of a is ", type(a))
-# Datatypes
+# print("Type of a is ", type(a))
+# # Datatypes
 
-# Numeric data: init, fload, complex
-init: 3, -8, 0
-float: 7.33, -9.0, 0.005
-complex: 6+2i
+# # Numeric data: init, fload, complex
+# init: 3, -8, 0
+# float: 7.33, -9.0, 0.005
+# complex: 6+2i
 
 
-#Text data: str
-str: "Hello Python"
+# #Text data: str
+# str: "Hello Python"
 
-#Boolean data
-True
-False
+# #Boolean data
+# True
+# False
 
 
 #Sequence data: list, tuple
