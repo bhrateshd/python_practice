@@ -14,3 +14,9 @@ print(apple)
 
 # Printg index 0 of name
 print(name[0])
+print(name[1])
+print(name[2])
+print(name[3])
+
+for character in apple:
+    print(character)
