@@ -26,6 +26,8 @@ if (num < 0):
     print("Number is negative")
 elif (num == 0):
     print("Number is zero")
+elif (num > 10 and num <=20):
+    print("Num is between 11 to 20")
 elif (num == 999):
     print("Number is special")
 else:
