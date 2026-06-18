@@ -1,3 +1,5 @@
+# function
+
 def function_name(parameters):
     # Function body
     statement(s)
